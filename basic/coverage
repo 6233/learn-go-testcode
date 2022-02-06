@@ -1,0 +1,19 @@
+mode: set
+github.com/6233/learn-go-testcode/testMe.go:3.20,4.12 1 1
+github.com/6233/learn-go-testcode/testMe.go:8.2,8.12 1 1
+github.com/6233/learn-go-testcode/testMe.go:12.2,12.26 1 1
+github.com/6233/learn-go-testcode/testMe.go:4.12,6.3 1 1
+github.com/6233/learn-go-testcode/testMe.go:8.12,10.3 1 1
+github.com/6233/learn-go-testcode/testMe.go:15.20,16.12 1 1
+github.com/6233/learn-go-testcode/testMe.go:19.2,19.12 1 1
+github.com/6233/learn-go-testcode/testMe.go:23.2,23.13 1 1
+github.com/6233/learn-go-testcode/testMe.go:27.2,27.26 1 1
+github.com/6233/learn-go-testcode/testMe.go:16.12,18.3 1 1
+github.com/6233/learn-go-testcode/testMe.go:19.12,21.3 1 1
+github.com/6233/learn-go-testcode/testMe.go:23.13,25.3 1 0
+github.com/6233/learn-go-testcode/testMe.go:30.23,31.13 1 1
+github.com/6233/learn-go-testcode/testMe.go:35.2,37.14 2 1
+github.com/6233/learn-go-testcode/testMe.go:41.2,41.10 1 1
+github.com/6233/learn-go-testcode/testMe.go:31.13,33.3 1 1
+github.com/6233/learn-go-testcode/testMe.go:37.14,39.3 1 1
+github.com/6233/learn-go-testcode/testMe.go:44.23,46.2 1 1
